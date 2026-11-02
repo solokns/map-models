@@ -16,7 +16,7 @@
   },
   "colors": {
     "dark":  { "crown": "#475368", "crownDark": "#3c4557", "trunk": "#2a2f38", "_palette": "crown grey-2/44, crownDark grey-2/39, trunk grey-3/23" },
-    "light": { "crown": "#b2bed2", "crownDark": "#a1afc6", "trunk": "#8e9eb8", "_palette": "crown grey-3/70, crownDark grey-3/63, trunk grey-3/55" }
+    "light": { "crown": "#efe7df", "crownDark": "#ebe3da", "trunk": "#e2d9cf", "_palette": "crown orange-1/88, crownDark orange-1/86, trunk orange-1/81 (близко к подложке и зданиям)" }
   },
   "placement": {
     "minzoom": 15,
