@@ -22,7 +22,7 @@
     "minzoom": 15,
     "maxInstances": 9000,
     "wood":  { "cell": 22,  "mix": { "pine": 0.8, "deciduous": 0.17, "bush": 0.03 } },
-    "grass": { "cell": 38, "mix": { "deciduous": 0.77, "pine": 0.03, "bush": 0.2 } },
+    "grass": { "cell": 38, "mix": { "deciduous": 0.8, "bush": 0.2 } },
     "clearance": { "path": 1.5, "track": 2, "service": 3, "minor": 4, "tertiary": 6, "secondary": 7, "primary": 9, "trunk": 11, "motorway": 15 }
   }
 }
